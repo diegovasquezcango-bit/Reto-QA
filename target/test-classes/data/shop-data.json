@@ -1,0 +1,24 @@
+[
+  {
+    "usuario": "standard_user",
+    "clave": "secret_sauce",
+    "nombre": "Diego H.",
+    "apellido": "Vasquez Cango",
+    "codigoPostal": "10003",
+    "productos": [
+      "Sauce Labs Backpack",
+      "Sauce Labs Bike Light"
+    ]
+  },
+  {
+    "usuario": "standard_user",
+    "clave": "secret_sauce",
+    "nombre": "Diego",
+    "apellido": "Vasquez",
+    "codigoPostal": "10003",
+    "productos": [
+      "Sauce Labs Onesie",
+      "Test.allTheThings() T-Shirt (Red)"
+    ]
+  }
+]

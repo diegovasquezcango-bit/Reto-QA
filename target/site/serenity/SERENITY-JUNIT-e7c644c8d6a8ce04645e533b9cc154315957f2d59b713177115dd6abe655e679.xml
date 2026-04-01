@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Prueba funcional automatizada E2E del flujo de compra en SauceDemo" skipped="0" tests="1" time="23.64" timestamp="2026-04-01 08:55:00"><testcase name="Compra exitosa de dos productos con datos desde JSON"/></testsuite>

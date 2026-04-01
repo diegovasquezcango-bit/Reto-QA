@@ -1,0 +1,25 @@
+CONCLUSIONES DEL EJERCICIO – AUTOMATIZACIÓN SERENITY BDD (SCREENPLAY)
+
+Durante el desarrollo de este ejercicio de automatización, logré implementar un flujo completo de compra en la página SauceDemo utilizando Serenity BDD con el patrón Screenplay.
+
+Uno de los principales aprendizajes fue entender cómo funciona el patrón Screenplay y cómo ayuda a organizar mejor el código. Separar las acciones en Tasks, las validaciones en Questions y los elementos en UI hizo que el proyecto fuera mucho más claro y fácil de mantener.
+
+También pude automatizar correctamente todo el flujo E2E, desde el login hasta la confirmación de compra. Esto me permitió validar un proceso completo del sistema, no solo acciones aisladas.
+
+Un punto importante fue el uso de datos externos mediante JSON. Esto me ayudó a separar los datos de la lógica de la prueba, haciendo que el escenario sea más flexible y fácil de modificar sin tocar el código. Además, deja preparada la base para ejecutar múltiples casos de prueba en el futuro.
+
+Durante la implementación también encontré varios problemas comunes en automatización, como configuraciones incorrectas de Maven, variables de entorno, ejecución en rutas equivocadas y popups del navegador. Resolver estos problemas me ayudó a entender mejor cómo funciona el entorno y cómo estabilizar las pruebas.
+
+Adicionalmente, implementé validaciones importantes como:
+
+* Verificar la cantidad de productos en el carrito
+* Confirmar que los productos agregados coinciden con los del checkout
+* Validar el mensaje final de la compra
+
+Esto hace que la prueba no solo ejecute pasos, sino que realmente valide el comportamiento del sistema.
+
+Otro aspecto importante fue entender la importancia de los nombres de las clases. Usar nombres claros y orientados al negocio hace que el código se pueda leer casi como si fuera una historia, lo cual es uno de los objetivos del patrón Screenplay.
+
+Finalmente, los reportes generados por Serenity permiten ver de forma clara qué pasó en cada paso, incluyendo evidencias, lo cual es muy útil para análisis y documentación.
+
+En conclusión, este ejercicio me permitió construir una base sólida de automatización, aplicando buenas prácticas, trabajando con datos externos y entendiendo cómo estructurar un framework que pueda crecer y mantenerse en el tiempo.
