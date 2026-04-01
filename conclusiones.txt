@@ -1,0 +1,9 @@
+HALLAZGOS Y CONCLUSIONES
+
+1. Se logró automatizar correctamente el flujo solicitado utilizando Karate.
+2. Karate permite construir pruebas REST de forma clara y legible.
+3. El uso de datos en JSON mejora la reutilización.
+4. La separación en features facilita el mantenimiento.
+5. Se resolvieron temas de configuración como SSL y karate-config.
+6. El flujo cubre: crear, consultar, actualizar y validar por estado.
+7. Karate es una buena opción por su simplicidad y organización.

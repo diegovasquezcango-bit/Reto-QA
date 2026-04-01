@@ -1,0 +1,40 @@
+[
+  {
+    "nombreInicial": "Firulais",
+    "estadoInicial": "available",
+    "nombreActualizado": "FirulaisVendido",
+    "estadoFinal": "sold",
+    "categoria": {
+      "id": 1,
+      "name": "Perros"
+    },
+    "photoUrls": [
+      "https://example.com/mascota.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "prueba"
+      }
+    ]
+  },
+  {
+    "nombreInicial": "Max",
+    "estadoInicial": "available",
+    "nombreActualizado": "MaxVendido",
+    "estadoFinal": "sold",
+    "categoria": {
+      "id": 1,
+      "name": "Perros"
+    },
+    "photoUrls": [
+      "https://example.com/mascota.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "prueba"
+      }
+    ]
+  }
+]
