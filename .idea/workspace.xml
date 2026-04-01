@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78978c15-d616-4618-8c29-c0417c7e5bb7" name="Changes" comment="Limpiar main">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;diegovasquezcango-bit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/diegovasquezcango-bit/Reto-QA.git&quot;,
+    &quot;accountId&quot;: &quot;4c74cb2e-8101-4f60-893a-e80c58594054&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Bl7XfWVGYLSAholIz4Hw8tmGhK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "feature/PruebaJmeter",
+    "git.auto.fetch.suggestion.counter": "1",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/dvasqcan/OneDrive - NTT DATA EMEAL/Escritorio/Diego H Vasquez Cango/Test-Api/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dvasqcan\OneDrive - NTT DATA EMEAL\Escritorio\Diego H Vasquez Cango\Test-Api\src\test\java" />
+      <recent name="C:\Users\dvasqcan\OneDrive - NTT DATA EMEAL\Escritorio\Diego H Vasquez Cango\Test-Api\src\test\java\" />
+      <recent name="C:\Users\dvasqcan\OneDrive - NTT DATA EMEAL\Escritorio\Diego H Vasquez Cango\Test-Api\src\resources" />
+      <recent name="C:\Users\dvasqcan\OneDrive - NTT DATA EMEAL\Escritorio\Diego H Vasquez Cango\Test-Api\src\test\java\petstore" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78978c15-d616-4618-8c29-c0417c7e5bb7" name="Changes" comment="" />
+      <created>1775051855901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775051855901</updated>
+      <workItem from="1775051857321" duration="7438000" />
+      <workItem from="1775075190561" duration="299000" />
+    </task>
+    <task id="LOCAL-00001" summary="Agregar proyecto api">
+      <option name="closed" value="true" />
+      <created>1775074630502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775074630502</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Limpiar main">
+      <option name="closed" value="true" />
+      <created>1775075229549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775075229549</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregar proyecto api" />
+    <MESSAGE value="Limpiar main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Limpiar main" />
+  </component>
+</project>
