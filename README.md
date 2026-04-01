@@ -1,82 +1,58 @@
-<<<<<<< HEAD
-# Proyecto de Automatización - Serenity BDD
+# Proyecto de Pruebas QA – Ejercicios Técnicos
 
-Este archivo **README.md** forma parte del proyecto y describe cómo ejecutar las pruebas automatizadas y consultar los resultados.
+## Descripción General
+Este repositorio contiene ejercicios prácticos enfocados en pruebas de calidad (QA), incluyendo pruebas de carga, API, web y análisis de resultados.
 
-El proyecto implementa pruebas E2E del flujo de compra en:
-
-https://www.saucedemo.com/
-
-Utiliza Serenity BDD con el patrón Screenplay, Cucumber y JUnit 5.
+El objetivo es demostrar habilidades en diseño y ejecución de pruebas, análisis de rendimiento, automatización y buenas prácticas con Git.
 
 ---
 
-## Requisitos
+## Estructura de Ramas
 
-* Java JDK 17 o superior
-* Maven 3.9.x o superior
-* Google Chrome
+Los ejercicios se organizan mediante una estrategia de *feature branches*, facilitando la trazabilidad y control de cambios.
+
+Ramas principales:
+
+- `feature/Analisis-Prueba-Carga`: Análisis de resultados de pruebas de carga
+- `feature/PruebaJmeter`: Ejecución de pruebas de rendimiento con JMeter
+- `feature/Test-Api`: Pruebas funcionales y/o automatizadas de APIs
+- `feature/Tes-Web`: Pruebas sobre aplicación web
+
+Cada rama contiene su implementación y documentación correspondiente.
 
 ---
 
-## Ejecución de pruebas
+## Alcance
 
-Ubicarse en la raíz del proyecto (donde está el archivo `pom.xml`) y ejecutar:
+- **Pruebas de carga**: evaluación de rendimiento, concurrencia y cuellos de botella
+- **JMeter**: diseño y ejecución de planes de prueba
+- **API**: validación de endpoints y respuestas
+- **Web**: pruebas funcionales y posibles automatizaciones
+
+---
+
+## Buenas Prácticas
+
+- Uso de control de versiones con Git
+- Separación por ramas (*feature branching*)
+- Commits descriptivos
+- Organización clara del repositorio
+- Documentación de resultados
+
+---
+
+## Tecnologías
+
+- JMeter
+- Postman / Newman
+- Herramientas de testing web
+- Git & GitHub
+
+---
+
+## Uso
+
+Clonar el repositorio:
 
 ```bash
-mvn clean verify
-```
-
-Este comando compila el proyecto, ejecuta los escenarios y genera los reportes.
-
----
-
-## Reportes
-
-Los reportes de Serenity se generan automáticamente en la siguiente ruta:
-
-```text
-target/site/serenity/index.html
-```
-
-Abrir este archivo en el navegador para visualizar los resultados de ejecución.
-
----
-
-## Estructura del proyecto
-
-```text
-src/test/java
-  ├── models
-  ├── tasks
-  ├── questions
-  ├── ui
-  ├── stepdefinitions
-  └── runners
-
-src/test/resources
-  ├── features
-  └── data
-```
-
----
-
-## Datos de prueba
-
-Los datos de prueba se gestionan mediante archivos JSON ubicados en:
-
-```text
-src/test/resources/data/
-```
-
----
-
-## Notas
-
-* Se recomienda cerrar todas las ventanas de Chrome antes de ejecutar
-* Se recomienda ejecutar las pruebas mediante Maven para asegurar la correcta generación de reportes
-
----
-=======
-# Reto-QA
->>>>>>> eac401ade13acdfd5ed0b2cf01b13dc7cfbd0e79
+git clone https://github.com/diegovasquezcango-bit/Reto-QA.git
