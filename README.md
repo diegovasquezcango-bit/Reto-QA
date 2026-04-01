@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto de Automatización - Serenity BDD
 
 Este archivo **README.md** forma parte del proyecto y describe cómo ejecutar las pruebas automatizadas y consultar los resultados.
@@ -76,3 +77,6 @@ src/test/resources/data/
 * Se recomienda ejecutar las pruebas mediante Maven para asegurar la correcta generación de reportes
 
 ---
+=======
+# Reto-QA
+>>>>>>> eac401ade13acdfd5ed0b2cf01b13dc7cfbd0e79
